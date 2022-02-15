@@ -57,6 +57,41 @@ body{
     text-align: justify;
     
 }
+.main-paragraph a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    background-color: black;
+    border-radius: 30px;
+    padding: 5px 20px;
+}
+.main-paragraph a:hover{
+    box-shadow: 1px 1px 10px black;
+}
+.container2 .banner{
+    background-color: gold;
+}
 .container2 .banner img{
     width: 100%;
+}
+.container3{
+    background-color:gold;
+    width: 100%;
+    height: 400px;
+    color: black;
+}
+.container4{
+    background-color:salmon;
+    width: 100%;
+    height: 400px;
+    color: black;
+}
+footer{
+    background-color: slateblue;
+    color: white;
+    
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    font-size: 1.3em;
 }
