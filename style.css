@@ -10,6 +10,9 @@ body{
     height: 400px;
     color: white;
 }
+.container2{
+    width: 100%;
+}
 /* navbar styles */
 .navbar{
     display: flex;
@@ -53,4 +56,7 @@ body{
     font-size: 1.3em;
     text-align: justify;
     
+}
+.container2 .banner img{
+    width: 100%;
 }
